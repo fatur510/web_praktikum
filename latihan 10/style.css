@@ -1,0 +1,11 @@
+body {
+    background-color: #0d9beea2;
+}
+h2 {
+    color: #ffffff;
+    
+}
+#message {
+    font-size: 1.2rem;
+    font-weight: bold;
+}

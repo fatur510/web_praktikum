@@ -1,0 +1,27 @@
+body {
+    
+    background-color: #ffffff;
+    background-image: url(music-notes-icon-clipart-transparent-background-free-png.jpg);
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.btn-primary {
+   background-color: rgb(0, 153, 255);
+   color: crimson;
+}
+
+.Judul-quiz {
+    color: rgb(7, 27, 119);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5.question.text-center {
+    color: rgb(4, 0, 226);
+    font-family: 'Montserrat', sans-serif;
+}
+
+div.d-flex.flex-column.gap-2 {
+    font-family: 'Montserrat', sans-serif;
+}
